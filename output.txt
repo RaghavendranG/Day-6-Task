@@ -1,0 +1,70 @@
+//Class Movie
+Output :
+//The constructor for the class Movie will set the class property rating to "PG" as default when no rating is provided.
+{
+    "title": "Avengers",
+    "studio": "Marvel",
+    "rating": "PG"
+}
+//getPG Method
+[
+    {
+        "title": "Avengers",
+        "studio": "Marvel",
+        "rating": "PG"
+    },
+    {
+        "title": "Batman",
+        "studio": "DC",
+        "rating": "PG"
+    }
+]
+//creates an instance of the class Movie with the title “Casino Royale”, the studio “Eon Productions”, and the rating “PG­13”
+{
+    "title": "Casino Royale",
+    "studio": "Eon Productions",
+    "rating": "PG13"
+}
+--------------------------------------------------------------------------------------------------------------------------------
+// Class Circle 
+Output :
+{
+    "radius": 1,
+    "color": "red"
+}
+--------------------------------------------------------------------------------------------------------------------------------
+//Radius of the circle
+Radius of circle : 1
+--------------------------
+//Color of the circle
+Color of circle : red
+--------------------------
+//Circle toString
+"Circle[radius=1, color=red]"
+--------------------------
+//Area of the circle
+Area of circle : 3.141592653589793
+--------------------------
+//Circumference of the circle
+Cirumference of circle : 6.283185307179586
+--------------------------------------------------------------------------------------------------------------------
+// Class Person
+Output :
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "Male",
+    "age": 22
+}
+
+{
+    "firstName": "Jessy",
+    "lastName": "Jane",
+    "gender": "Female",
+    "age": 20
+}
+--------------------------------------------------------------------------------------------------------------------------------
+// Class Uber
+Output :
+Price for this ride is 110rs
+--------------------------------------------------------------------------------------------------------------------------------
